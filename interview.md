@@ -1,7 +1,8 @@
-* Describe a data-related project you completed, and what you learned from the project. What would you have done differently?
+* Describe a data-related project you completed, and what you learned from the project. 
 	* Be ready to talk about a couple of projects that you think really show off your contributions, engineering and modeling skills, and teamwork.
 	* You should be able to give a  high-level explanation of your work in the form of a “story”. You should explain why you worked on a project, what you were trying to accomplish, what your contributions were, what were some of the challenges and how you solved them (these should also include “soft” challenges — e.g. the team didn’t have a process for coordinating and sharing results, and you instituted one). The goal is to help the interviewer immediately understand, as an outsider, that your skills will generalize to a different field and environment. 
 	* You can deep-dive into the more technical details later if the interviewer is interested.
+	* What would you have done differently? Be prepared to describe a difficult/unsuccessful situation.
 * How is data used in Astronomy?
 	* Again, think at a high level. 
 * Do you see yourself as a data scientist, and why?
