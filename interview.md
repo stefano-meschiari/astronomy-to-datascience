@@ -1,3 +1,5 @@
+# Basic interview questions
+
 * Describe a data-related project you completed, and what you learned from the project. 
 	* Be ready to talk about a couple of projects that you think really show off your contributions, engineering and modeling skills, and teamwork.
 	* You should be able to give a  high-level explanation of your work in the form of a “story”. You should explain why you worked on a project, what you were trying to accomplish, what your contributions were, what were some of the challenges and how you solved them (these should also include “soft” challenges — e.g. the team didn’t have a process for coordinating and sharing results, and you instituted one). The goal is to help the interviewer immediately understand, as an outsider, that your skills will generalize to a different field and environment. 
@@ -8,7 +10,7 @@
 * Do you see yourself as a data scientist, and why?
 	* Yes! Use examples from your past work.
 * You are given a spreadsheet that includes data about an internet company (e.g. number of users, time spent on the platform, and sharing activity) and their monthly revenue. This dataset fits into memory. What is your process for analyzing this data?
-	* Most people will jump into talking about regression methods, importing the data into scikit-learn, etc. 
+	* Most people will jump into talking about regression methods, importing the data into scikit-learn, etc. _Don't do that right away._
 	* As a mature data scientist, the correct way to answer this is to imagine what process you would follow in real life. You would not jump straight into analysis, but you would /you would ask more questions before jumping into the analysis/, including:
 		* Who is the audience? 
 		* What business problem are they interested in solving? What business metrics are we optimizing for?
