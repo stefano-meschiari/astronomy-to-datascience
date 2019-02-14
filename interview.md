@@ -36,9 +36,9 @@
 	* What are some of your leadership experiences?
 	* Why are you leaving your field?
 	* Tell me about a time you made a mistake at work.
-* Be prepared to answer simple stats questions:
-	* Usually, those include slightly harder questions where you need to invoke Bayes’ theorem
-	* What is a p-value?
+* Be prepared to answer simple stats problems.
+	* Usually, those include slightly trickier questions where you need to invoke Bayes’ theorem. 
+	* Be prepared to define basic concepts (e.g. what is a p-value?)
 * Simple questions about basic ML algorithms and techniques:
 	* Can you give a basic explanation of how (linear regression, logistic regression, generalized linear models, classification trees, K-means clustering, simple neural networks) work?
 	* What is the gradient descent method?
