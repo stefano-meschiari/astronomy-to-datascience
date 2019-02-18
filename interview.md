@@ -42,14 +42,17 @@
 	* Usually, those include slightly trickier questions where you need to invoke Bayes’ theorem. 
 	* Be prepared to define basic concepts (e.g. what is a p-value?)
 * Simple questions about basic ML algorithms and techniques:
-	* Can you give a basic explanation of how (linear regression, logistic regression, generalized linear models, classification trees, K-means clustering, simple neural networks) work?
+	* Can you give a basic explanation of how (linear regression, logistic regression, generalized linear models, classification trees, random forests, K-means clustering, neural networks) work? 
+		* Provide an example problem where that algorithm is applicable
+		* What are some of the strengths of the algorithm? What are some of its weaknesses?
 	* What is the gradient descent method?
 	* What is regularization? When is it useful?
 	* What is Multicollinearity? How can we solve it?
-	* What is the curse of dimensionality? When would you suffer its effects? How will you compensate for it?
+	* What is the curse of dimensionality? When would you suffer its effects? How can you compensate for it?
 * Simple questions about data:
 	* What are ways you could deal with missing data?
 	* How might you determine if a data set is “clean?”
 	* What are some ways you can deal with messy data?
 	* What is big data? Would you consider the projects you worked on “big data”? How do you deal with it?
-	* Be prepared to whiteboard simple SQL queries that include aggregations and joins
+* Be prepared to whiteboard SQL
+	* For a data science interview, these are typically very basic SQL queries that include aggregations and joins
