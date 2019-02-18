@@ -11,18 +11,18 @@
 	* Yes! Use examples from your past work, making sure to translate the astronomy jargon into high-level terms.
 * You are given a spreadsheet that includes data about an internet company (e.g. number of users, time spent on the platform, and sharing activity) and their monthly revenue. This dataset fits into memory. What is your process for analyzing this data?
 	* Most people will jump into talking about regression methods, importing the data into scikit-learn, etc. _Don't do that right away._
-	* As a mature data scientist, the correct way to answer this is to imagine what process you would follow in real life. You would not jump straight into analysis, but you would /you would ask more questions before jumping into the analysis/, including:
+	* As a mature data scientist, the correct way to answer this is to detail what process you would follow in real life. You would not jump straight into analysis, but you would /you would ask more questions before jumping into the analysis/, including:
 		* Who is the audience? 
 		* What business problem are they interested in solving? What business metrics are we optimizing for?
-		* What is the /current process in place/? 
+		* What is the /current process/ that's already in place? 
 		* Are they trying to explain what drives sales, or forecast future sales? Does the model need to be explainable to stakeholders?
 		* What data is included? Where is the data coming from?
 		* etc
 	* 	Once you transition into talking about the analysis, you should be able to:
 		* identify if this is a classification, regression, or outlier/anomaly detection problem
-		* identify immediately what is the response variable (e.g. sales in this case) and what predictors are.
-		* start with the simplest possible modeling techniques. Linear and logistic regression can go a long way, and in practice, it is the production model for a lot of problems. 
-		* describe your analysis process — typically EDA to help you guide on a choice of model family, feature extraction, separating the dataset into train / test sets, training with cross-validation, then computing test metrics.
+		* identify immediately what is the response variable based on your earlier questions (e.g., sales in this case) and what the relevant predictors are.
+		* start the discussion with the simplest possible modeling techniques. Linear and logistic regression can go a long way, and in practice, it is the production model for a lot of problems. 
+		* describe your analysis workflow — typically EDA to help you guide on a choice of model family, feature extraction, separating the dataset into train / test sets, training with cross-validation, computing test metrics, then translation into business metrics.
 		* describe how you would visualize the output of your model to your audience
 * How much machine learning work have you done?
 	* You probably have done ML-adjacent work in astronomy, you just called it something different.
