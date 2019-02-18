@@ -6,9 +6,9 @@
 	* You can deep-dive into the more technical details later if the interviewer is interested.
 	* What would you have done differently? Be prepared to describe a difficult/unsuccessful situation.
 * How is data used in Astronomy?
-	* Again, think at a high level. 
+	* Again, think at a high level. Examples: where is the data you used in your research coming from? How did you reduce it? What models did you use? What was your analysis process? How did you ensure reproducibility? How did you share your results with the rest of your team?
 * Do you see yourself as a data scientist, and why?
-	* Yes! Use examples from your past work.
+	* Yes! Use examples from your past work, making sure to translate the astronomy jargon into high-level terms.
 * You are given a spreadsheet that includes data about an internet company (e.g. number of users, time spent on the platform, and sharing activity) and their monthly revenue. This dataset fits into memory. What is your process for analyzing this data?
 	* Most people will jump into talking about regression methods, importing the data into scikit-learn, etc. _Don't do that right away._
 	* As a mature data scientist, the correct way to answer this is to imagine what process you would follow in real life. You would not jump straight into analysis, but you would /you would ask more questions before jumping into the analysis/, including:
@@ -44,14 +44,14 @@
 * Simple questions about basic ML algorithms and techniques:
 	* Can you give a basic explanation of how (linear regression, logistic regression, generalized linear models, classification trees, random forests, K-means clustering, neural networks) work? 
 		* Provide an example problem where that algorithm is applicable
-		* What are some of the strengths of the algorithm? What are some of its weaknesses?
+		* What are some of the strengths of the algorithm? What are some of its limitations? 
 	* What is the gradient descent method?
 	* What is regularization? When is it useful?
 	* What is Multicollinearity? How can we solve it?
 	* What is the curse of dimensionality? When would you suffer its effects? How can you compensate for it?
 * Simple questions about data:
 	* What are ways you could deal with missing data?
-	* How might you determine if a data set is “clean?”
+	* How can you determine if a data set is “clean”?
 	* What are some ways you can deal with messy data?
 	* What is big data? Would you consider the projects you worked on “big data”? How do you deal with it?
 * Be prepared to whiteboard SQL
