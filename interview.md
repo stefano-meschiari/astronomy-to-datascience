@@ -1,7 +1,10 @@
 # Basic interview questions
 
-* Describe a data-related project you completed, and what you learned from the project. 
+* Describe a data-related project you completed, and what you learned from the project.
 	* Be ready to talk about a couple of projects that you think really show off your contributions, engineering and modeling skills, and teamwork.
+	* What was the goal of the project?
+	* What were your specific duties and responsibilities? Who else was involved? Were you happy with the outcome of the project?
+	* How did you keep track of progress? How did you estimate milestones and deadlines? How did review status against them?
 	* You should be able to give a  high-level explanation of your work in the form of a “story”. You should explain why you worked on a project, what you were trying to accomplish, what your contributions were, what were some of the challenges and how you solved them (these should also include “soft” challenges — e.g. the team didn’t have a process for coordinating and sharing results, and you instituted one). The goal is to help the interviewer immediately understand, as an outsider, that your skills will generalize to a different field and environment. 
 	* You can deep-dive into the more technical details later if the interviewer is interested.
 	* What would you have done differently? Be prepared to describe a difficult/unsuccessful situation.
