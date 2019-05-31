@@ -14,7 +14,8 @@
 	* As a mature data scientist, the correct way to answer this is to detail what process you would follow in real life. You would not jump straight into analysis, but you would /you would ask more questions before jumping into the analysis/, including:
 		* Who is the audience? 
 		* What business problem are they interested in solving? What business metrics are we optimizing for?
-		* What is the /current process/ that's already in place? 
+		* How do you ensure correct communication and translation of jargon between stakeholders? What is considered a "user" (all users, including inactive? only active users? only paying users?). What is considered "time spent on the platform"? etc. Nailing down and defining these is one of the most difficult parts of the process.
+		* What is the /current process/ that's already in place? How are we trying to improve it?
 		* Are they trying to explain what drives sales, or forecast future sales? Does the model need to be explainable to stakeholders?
 		* What data is included? Where is the data coming from?
 		* etc
@@ -31,23 +32,23 @@
 	* Start from the prototyping basics (say, Python / Jupyter / Pandas / Sklearn, or R), then move on to other tools you are proficient with.
 * What is something you would like to learn (e.g. algorithm, technique, stack, etc.) while at X?
 * Why are you interested in Y? (where Y is the core business of the company you’re applying for)
-	* A lot of people are surprisingly unprepared to answer this.
+	* A lot of people are surprisingly unprepared to answer this, and it's not a good look :)
 * Some soft questions include:
 	* Tell me about a challenge or conflict you have experienced at work
 	* What makes you uncomfortable?
 	* What are some of your leadership experiences?
 	* Why are you leaving your field?
 	* Tell me about a time you made a mistake at work.
-* Be prepared to answer simple stats problems.
-	* Usually, those include slightly trickier questions where you need to invoke Bayes’ theorem. 
+* Be prepared to answer very simple stats problems.
+	* Usually, those include questions that are slightly tricky on the surface but can be answered easilyby invoking some form of Bayes’ theorem. 
 	* Be prepared to define basic concepts (e.g. what is a p-value?)
-* Simple questions about basic ML algorithms and techniques:
+* Simple questions about basic ML algorithms and techniques, for example:
 	* Can you give a basic explanation of how (linear regression, logistic regression, generalized linear models, classification trees, random forests, K-means clustering, neural networks) work? 
 		* Provide an example problem where that algorithm is applicable
-		* What are some of the strengths of the algorithm? What are some of its limitations? 
+		* What are some of the strengths of the algorithm? What are some of its limitations? (being able to answer these questions is _much more important_ than knowing all the implementation details of the algorithm. Neural networks are not the magic answer to everything.)
 	* What is the gradient descent method?
 	* What is regularization? When is it useful?
-	* What is Multicollinearity? How can we solve it?
+	* What is multicollinearity? How can we solve it?
 	* What is the curse of dimensionality? When would you suffer its effects? How can you compensate for it?
 * Simple questions about data:
 	* What are ways you could deal with missing data?
