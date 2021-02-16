@@ -8,8 +8,6 @@
 	* You should be able to give a  high-level explanation of your work in the form of a “story”. You should explain why you worked on a project, what you were trying to accomplish, what your contributions were, what were some of the challenges and how you solved them (these should also include “soft” challenges — e.g. the team didn’t have a process for coordinating and sharing results, and you instituted one). The goal is to help the interviewer immediately understand, as an outsider, that your skills will generalize to a different field and environment. 
 	* You can deep-dive into the more technical details later if the interviewer is interested.
 	* What would you have done differently? Be prepared to describe a difficult/unsuccessful situation.
-* How is data used in Astronomy?
-	* Again, think at a high level. Examples: where is the data you used in your research coming from? How did you reduce it? What models did you use? What was your analysis process? How did you ensure reproducibility? How did you share your results with the rest of your team?
 * Do you see yourself as a data scientist, and why?
 	* Yes! Use examples from your past work, making sure to translate the astronomy jargon into high-level terms.
 * You are given a spreadsheet that includes data about an internet company (e.g. number of users, time spent on the platform, and sharing activity) and their monthly revenue. This dataset fits into memory. What is your process for analyzing this data?
@@ -33,6 +31,8 @@
 	* If you really, really haven’t done an ML project in astronomy, be prepared to describe previous projects that could have been concretely improved with machine learning
 * What is in your current data science toolbox?
 	* Start from the prototyping basics (say, Python / Jupyter / Pandas / Sklearn, or R), then move on to other tools you are proficient with.
+* How is data used in Astronomy?
+	* Again, think at a high level. Examples: where is the data you used in your research coming from? How did you reduce it? What models did you use? What was your analysis process? How did you ensure reproducibility? How did you share your results with the rest of your team?
 * What is something you would like to learn (e.g. algorithm, technique, stack, etc.) while at X?
 * Why are you interested in Y? (where Y is the core business of the company you’re applying for)
 	* A lot of people are surprisingly unprepared to answer this, and it's not a good look :)
